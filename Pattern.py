@@ -88,7 +88,11 @@ def diamond(n):
 
 # Hollow Square
 
-#
+#     * * * * * 
+#     *       * 
+#     *       * 
+#     *       * 
+#     * * * * *
 
 def hollow_square(n):
     print("\nHollow Square Pattern")
@@ -101,17 +105,12 @@ def hollow_square(n):
 #..................................................................................................................
 
 # Number Pyramid
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
+#       1 
+#      1 2 
+#     1 2 3 
+#    1 2 3 4 
+#   1 2 3 4 5
 
 def number_pyramid(n):
     print("\nNumber Pyramid")
@@ -125,17 +124,12 @@ def number_pyramid(n):
 #..................................................................................................................
 
 # Pascal’s Triangle
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
+#        1
+#       1 1
+#      1 2 1
+#     1 3 3 1
+#    1 4 6 4 1
 
 def pascals_triangle(n):
     print("\nPascal's Triangle")
