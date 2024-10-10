@@ -33,8 +33,12 @@ def inverted_pyramid(n):
 #..................................................................................................................
 
 # Right-Angled Triangle
-#
 
+#     * 
+#     * * 
+#     * * * 
+#     * * * * 
+#     * * * * *
 
 def right_angled_triangle(n):
     print("\nRight-Angled Triangle of Stars")
