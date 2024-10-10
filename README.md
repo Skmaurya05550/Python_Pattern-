@@ -23,7 +23,7 @@ The following patterns are available in this repository:
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/patterns-python.git
+    git clone https://github.com/skmaurya05550/patterns-python.git
     cd patterns-python
     ```
 
