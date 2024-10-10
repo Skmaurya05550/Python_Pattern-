@@ -18,45 +18,23 @@ def full_pyramid(n):
 
 
 # Inverted Pyramid of Stars
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
 
-
-
-
-
-
-
-
-
+#          * * * * * 
+#           * * * * 
+#            * * * 
+#             * * 
+#              *
 
 def inverted_pyramid(n):
     print("\nInverted Pyramid of Stars")
     for i in range(n, 0, -1):
         print(' ' * (n - i) + '* ' * i)
+        
 #..................................................................................................................
 
 # Right-Angled Triangle
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
 
 def right_angled_triangle(n):
     print("\nRight-Angled Triangle of Stars")
@@ -68,18 +46,6 @@ def right_angled_triangle(n):
 
 # Inverted Right-Angled Triangle
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-
 
 def inverted_right_angled_triangle(n):
     print("\nInverted Right-Angled Triangle of Stars")
