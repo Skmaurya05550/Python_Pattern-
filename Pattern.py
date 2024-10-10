@@ -49,7 +49,12 @@ def right_angled_triangle(n):
 
 
 # Inverted Right-Angled Triangle
-#
+
+#     * * * * * 
+#     * * * * 
+#     * * * 
+#     * * 
+#     *
 
 def inverted_right_angled_triangle(n):
     print("\nInverted Right-Angled Triangle of Stars")
@@ -62,17 +67,7 @@ def inverted_right_angled_triangle(n):
 # Diamond Pattern
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
 
 def diamond(n):
     print("\nDiamond Pattern")
