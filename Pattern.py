@@ -65,9 +65,16 @@ def inverted_right_angled_triangle(n):
 
 
 # Diamond Pattern
-#
-#
 
+#              * 
+#             * * 
+#            * * * 
+#           * * * * 
+#          * * * * * 
+#           * * * * 
+#            * * * 
+#             * * 
+#              *
 
 def diamond(n):
     print("\nDiamond Pattern")
@@ -80,16 +87,7 @@ def diamond(n):
 
 
 # Hollow Square
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
 #
 
 def hollow_square(n):
